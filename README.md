@@ -9,25 +9,6 @@
 📫 Reach Me: Through GitHub or LinkedIn
 🤝 Open To: Learning, collaboration & open source
 🛠️ Technical Skills
-Languages
-
-Show Image Show Image
-
-Web Development
-
-Show Image Show Image Show Image Show Image Show Image
-
-Databases
-
-Show Image
-
-Concepts
-
-Show Image Show Image Show Image
-
-Tools
-
-Show Image Show Image Show Image
 
 🚀 Featured Projects
 Project	Description	Tech
