@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Aman Fatima ✨</h1> <p align="center"> <b>Software Engineering Student | Web Development | Problem Solver</b> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+user-friendly+web+apps;MERN+Stack+%7C+C%2B%2B+%7C+DSA;Looking+for+a+Web+Development+Internship" alt="Typing SVG" /> </p>
-👩‍💻 About Me
-🎓 Student: BS Software Engineering at the University of Faisalabad (2024–2028)
+<p>👩‍💻 About Me<br>
+🎓 Student: BS Software Engineering at the University of Faisalabad (2024–2028)<br>
 💻 Focus: Full-Stack Web Development & Software Engineering
 🛠️ Building: Responsive web applications and frontend projects
 🧠 Knowledge: C++, OOP, Data Structures, REST APIs, MongoDB
@@ -9,6 +9,7 @@
 📫 Reach Me: Through GitHub or LinkedIn
 🤝 Open To: Learning, collaboration & open source
 🛠️ Technical Skills
+</p>
 
 🚀 Featured Projects
 Project	Description	Tech
