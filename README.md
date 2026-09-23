@@ -12,11 +12,12 @@
 </p>
 
 🚀 Featured Projects
-Project	Description	Tech
-🎮 Rock-Paper-Scissors	Play against the computer with score tracking	JavaScript
-🌦️ Weather-app	Responsive weather application	HTML, CSS, JS, Webpack
-❌⭕ Tic-Tac-Toe-Game	Turn-based game with win/draw detection	JavaScript
-🧮 Calculator	A simple calculator	HTML, CSS, JS
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmanfatimaCode&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanfatimaCode&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p>
+Project	Description	Tech<br>
+🎮 Rock-Paper-Scissors:	Play against the computer with score tracking	JavaScript<br>
+🌦️ Weather-app:	Responsive weather application	HTML, CSS, JS, Webpack<br>
+❌⭕ Tic-Tac-Toe-Game:	Turn-based game with win/draw detection	JavaScript<br>
+🧮 Calculator:	A simple calculator	HTML, CSS, JS<br>
+</p>
+
 <p align="center"> <i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i> </p>
